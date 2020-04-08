@@ -28,6 +28,7 @@
 
 #include <vector>
 #include <set>
+#include <optional>
 
 namespace solidity::yul
 {
